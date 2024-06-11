@@ -1,1 +1,2 @@
+# Ignore all node_modules directories in the project, including nested ones
 **/node_modules/
